@@ -38,6 +38,9 @@ The Password Manager allows users to securely store their passwords. It provides
 The NotePad application allows users to create, view, and edit text files. It provides the following functionality:
 
 - Create a new note: Allows users to create a new text file.
+
+- ![Password Manager Screenshot]()
+
 - View existing note: Allows users to view the contents of an existing text file.
 
 ## Images
