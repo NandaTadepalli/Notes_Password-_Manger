@@ -45,7 +45,7 @@ The NotePad application allows users to create, view, and edit text files. It pr
 
 This directory contains images related to the project. 
 - ![NotePad Screenshot1](/Screenshot 2024-04-28 141657.png)
-- ![NotePad Screenshot2](Screenshot 2024-04-28 142252.png)
+- ![NotePad Screenshot2](Notes_Password_Manger/Screenshot 2024-04-28 142252.png)
 - ![PasswordManager Screenshot1](Screenshot 2024-04-28 141901.png)
 - ![PasswordManager Screenshot2](Screenshot 2024-04-28 141915.png)
 
