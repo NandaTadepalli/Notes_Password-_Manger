@@ -39,17 +39,14 @@ The NotePad application allows users to create, view, and edit text files. It pr
 
 - Create a new note: Allows users to create a new text file.
 
-- View existing note: Allows users to view the contents of an existing text file.
+- View existing notes: Allows users to view the contents of an existing text file.
 
 ## Images
 
 This directory contains images related to the project. 
-- ![NotePad Screenshot1](/Screenshot 2024-04-28 141657.png)
-- ![NotePad Screenshot2](Notes_Password_Manger/Screenshot 2024-04-28 142252.png)
-- ![PasswordManager Screenshot1](Screenshot 2024-04-28 141901.png)
-- ![PasswordManager Screenshot2](Screenshot 2024-04-28 141915.png)
+![NotePad Screenshot1](Screenshot_2024-04-28_141657.png)
+-![NotePad Screenshot2](Screenshot_2024-04-28_142252.png)
+-![PasswordManager Screenshot1](Screenshot_2024-04-28_141901.png)
+-![PasswordManager Screenshot2](Screenshot_2024-04-28_141915.png)
 
- ![NotePad Screenshot2](Notes_Password_Manger/Screenshot 2024-04-28 142252.png)
-![PasswordManager Screenshot1](Screenshot 2024-04-28 141901.png)
-![PasswordManager Screenshot2](Screenshot 2024-04-28 141915.png)
 
