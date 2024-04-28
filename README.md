@@ -44,10 +44,12 @@ The NotePad application allows users to create, view, and edit text files. It pr
 ## Images
 
 This directory contains images related to the project. 
-Images of NotePad
+<h3>Images of NotePad</h3>
+
 ![NotePad Screenshot1](notes1)
 ![NotePad Screenshot2](notes2)
-Password Manager Screenshots 
+<h3>Password Manager Screenshots</h3>
+
 ![PasswordManager Screenshot1](password1)
 ![PasswordManager Screenshot2](password2)
 
