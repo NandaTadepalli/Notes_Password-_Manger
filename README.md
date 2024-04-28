@@ -49,5 +49,7 @@ This directory contains images related to the project.
 - ![PasswordManager Screenshot1](Screenshot 2024-04-28 141901.png)
 - ![PasswordManager Screenshot2](Screenshot 2024-04-28 141915.png)
 
-
+ ![NotePad Screenshot2](Notes_Password_Manger/Screenshot 2024-04-28 142252.png)
+![PasswordManager Screenshot1](Screenshot 2024-04-28 141901.png)
+![PasswordManager Screenshot2](Screenshot 2024-04-28 141915.png)
 
